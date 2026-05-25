@@ -1,11 +1,11 @@
 <div align="center">
 
-# PRIYANSHI.exe
+# ✦ My Space :3 ✦
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IT+Student;Web+Developer;Learning+DSA;Building+Cool+Stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=%E2%9C%A6+building+cool+things;%E2%9C%A6+learning+DSA;%E2%9C%A6+exploring+space+and+code;%E2%9C%A6+welcome+to+my+little+universe)](https://git.io/typing-svg)
 
 ```console
-> Initializing profile...
+> probably listening to music rn
 ```
 
 </div>
