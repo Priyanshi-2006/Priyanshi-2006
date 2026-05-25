@@ -24,21 +24,22 @@
 
 ### 🌠 Current Mission
 
-- 🔭 Building a web browser that knows what i like
-- 📖 Learning Rust *(it's hard but she's pretty ✨)* and revising loml Java
-- 🌐 Contributing to open-source accessibility tools
-- ☕ Keeping the matcha industry alive
+<p align="center">
+🔭 Building a web browser that knows what I like <br>
+📖 Learning Rust <i>(it's hard but she's pretty ✨)</i> and revising loml Java <br>
+🌐 Contributing to open-source accessibility tools <br>
+🍵 Keeping the matcha industry alive
+</p>
 
 <br>
 
 ### 📡 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi-2006&show_icons=true&theme=tokyonight&bg_color=090f22&border_color=7c3aed&icon_color=c084fc&title_color=e0c4ff&text_color=bfb8ff&hide_border=false" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-2006&layout=compact&theme=tokyonight&bg_color=090f22&border_color=7c3aed&title_color=e0c4ff&text_color=bfb8ff" height="150"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshi-2006&show_icons=true&theme=tokyonight" height="165"/>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-2006&layout=compact&theme=tokyonight" height="165"/>
+</p>
 <br>
 
 ### 🌸 Find Me
@@ -50,7 +51,7 @@
 <br>
 
 <div align="center">
-  <sub>✦ made with stardust & caffeine · updated [[MAY 2026]] ✦</sub>
+  <sub>✦ made with stardust & caffeine · updated [May 2026] ✦</sub>
 </div>
 
 </div>
