@@ -47,6 +47,13 @@
 </p>
 <br>
 
+<img src="./stickers/cloud.png"
+     width="190"
+     align="left"
+     style="margin: 0px 10px -30px -40px;">
+
+<br clear="both">
+
 ### 🌸 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a1228?style=for-the-badge&logo=linkedin&logoColor=93c5fd)](www.linkedin.com/in/priyanshi-juyal-033ba5321)
