@@ -24,6 +24,11 @@
 
 ### 🌠 Current Mission
 
+<img src="./stickers/fih.png"
+     width="180"
+     align="right"
+     style="margin: -20px -30px 0px 10px;">
+
 <p align="center">
 🔭 Building a web browser that knows what I like <br>
 📖 Learning Rust <i>(it's hard but she's pretty ✨)</i> and revising loml Java <br>
