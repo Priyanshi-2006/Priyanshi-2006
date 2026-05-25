@@ -22,12 +22,12 @@
 
 <br>
 
-### 🌠 Current Mission
-
 <img src="./stickers/fih.png"
-     width="180"
+     width="150"
      align="right"
-     style="margin: -20px -30px 0px 10px;">
+     style="margin-top:-80px;">
+     
+### 🌠 Current Mission
 
 <p align="center">
 🔭 Building a web browser that knows what I like <br>
@@ -36,7 +36,7 @@
 🍵 Keeping the matcha industry alive
 </p>
 
-<br>
+<br clear="right">
 
 ### 📡 GitHub Stats
 
@@ -48,11 +48,9 @@
 <br>
 
 <img src="./stickers/cloud.png"
-     width="190"
+     width="320"
      align="left"
-     style="margin: 0px 10px -30px -40px;">
-
-<br clear="both">
+     style="margin: -40px 0px -120px -120px;">
 
 ### 🌸 Find Me
 
