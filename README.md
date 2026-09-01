@@ -41,9 +41,7 @@
 ### 📡 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshi-2006&show_icons=true&theme=tokyonight" height="165"/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshi-2006&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Priyanshi-2006&theme=tokyonight" height="180"/>
 </p>
 <br>
 
